@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/origen.github.io/static/css/main.f4cdb70a.css",
+    "main.js": "/origen.github.io/static/js/main.3564cdd7.js",
+    "static/js/937.7238f31a.chunk.js": "/origen.github.io/static/js/937.7238f31a.chunk.js",
+    "static/js/787.4b846e2a.chunk.js": "/origen.github.io/static/js/787.4b846e2a.chunk.js",
+    "index.html": "/origen.github.io/index.html",
+    "main.f4cdb70a.css.map": "/origen.github.io/static/css/main.f4cdb70a.css.map",
+    "main.3564cdd7.js.map": "/origen.github.io/static/js/main.3564cdd7.js.map",
+    "937.7238f31a.chunk.js.map": "/origen.github.io/static/js/937.7238f31a.chunk.js.map",
+    "787.4b846e2a.chunk.js.map": "/origen.github.io/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4cdb70a.css",
+    "static/js/main.3564cdd7.js"
+  ]
+}
